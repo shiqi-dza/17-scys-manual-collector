@@ -36,7 +36,7 @@
 
 GitHub：
 
-`【替换成 GitHub 地址】`
+`https://github.com/shiqi-dza/17-scys-manual-collector`
 
 这是我在真实整理过程中逐步改出来的第一版。如果你也有类似的手册整理需求，可以试试看。遇到目录识别、增量更新或者 Markdown 输出的问题，也欢迎提交 Issue。
 
@@ -48,7 +48,7 @@ GitHub：
 
 项目不包含课程内容，不绕过权限，也不会把账号信息和个人原话放进分享包。
 
-GitHub：`【替换成 GitHub 地址】`
+GitHub：`https://github.com/shiqi-dza/17-scys-manual-collector`
 
 ## 一句话介绍
 

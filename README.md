@@ -60,7 +60,7 @@ Skill 会根据当前环境选择可用的只读方式：
 在支持本地 Skills 的 Codex 环境中，可以把本仓库克隆到个人 Skills 目录：
 
 ```bash
-git clone https://github.com/<你的-GitHub-用户名>/17-scys-manual-collector.git ~/.codex/skills/17-scys-manual-collector
+git clone https://github.com/shiqi-dza/17-scys-manual-collector.git ~/.codex/skills/17-scys-manual-collector
 ```
 
 重新打开 Codex 后，可以通过 `$17-scys-manual-collector` 显式调用。不同宿主的 Skills 安装目录可能不同，请以对应宿主的说明为准。
