@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.zip
+__pycache__/
+*.py[cod]
+.codex-tmp-*
+.tmp/
+tmp/
+output/
+outputs/
+manual-output/
+collected-manuals/

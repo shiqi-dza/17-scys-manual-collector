@@ -1,0 +1,6 @@
+interface:
+  display_name: "生财航海手册整理 Skill（非官方）"
+  short_description: "整理本人有权访问页面的 Plain Text 到本地 Markdown"
+  default_prompt: "使用 $17-scys-manual-collector 整理我有权访问的这份生财航海手册，并先预览新增、需要更新和保持不动的笔记。"
+policy:
+  allow_implicit_invocation: true
